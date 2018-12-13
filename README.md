@@ -1,0 +1,2 @@
+# WebsiteType
+picture wise website
